@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a tracking site!<br>🤝 I’m looking for help with Javascript/CSS<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I also like designing mockups!
+🔭 I’m currently working on an e-commerce site!<br>🤝 I’m looking for help with Javascript/CSS<br>🌱 I’m currently learning Python<br>⚡ Fun fact: I also like designing mockups!
 
 
 ## 🌐 Socials:
